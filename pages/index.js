@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Mari, te amo muito</h1>;
+  return <h1>Te amo, meu dengo... M</h1>;
 }
 
 function teste() {
